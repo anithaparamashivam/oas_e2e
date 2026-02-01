@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ORD-001",
+    "customerId": "CUST-123",
+    "items": [
+      {
+        "productId": "PROD-001",
+        "quantity": 2,
+        "price": 29.99
+      }
+    ],
+    "totalAmount": 59.98,
+    "status": "pending",
+    "createdAt": "2026-01-31T10:00:00Z"
+  },
+  {
+    "id": "ORD-002",
+    "customerId": "CUST-456",
+    "items": [
+      {
+        "productId": "PROD-002",
+        "quantity": 1,
+        "price": 99.99
+      },
+      {
+        "productId": "PROD-003",
+        "quantity": 3,
+        "price": 15.00
+      }
+    ],
+    "totalAmount": 144.99,
+    "status": "pending",
+    "createdAt": "2026-01-31T10:05:00Z"
+  }
+]

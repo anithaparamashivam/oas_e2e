@@ -1,0 +1,40 @@
+[
+  {
+    "id": null,
+    "customerId": "CUST-123",
+    "items": []
+  },
+  {
+    "id": "ORD-003",
+    "customerId": "",
+    "items": [
+      {
+        "productId": "PROD-001",
+        "quantity": -1,
+        "price": 29.99
+      }
+    ],
+    "totalAmount": -29.99
+  },
+  {
+    "id": "ORD-004",
+    "customerId": "CUST-789",
+    "items": [
+      {
+        "productId": "",
+        "quantity": 1,
+        "price": "invalid"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST-999",
+    "items": [
+      {
+        "productId": "PROD-005",
+        "quantity": 1,
+        "price": 50.00
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "PROD-001",
+      "name": "Widget A",
+      "category": "Widgets",
+      "price": 29.99,
+      "stock": 100,
+      "sku": "WID-001-A"
+    },
+    {
+      "id": "PROD-002",
+      "name": "Widget B",
+      "category": "Widgets",
+      "price": 99.99,
+      "stock": 50,
+      "sku": "WID-002-B"
+    },
+    {
+      "id": "PROD-003",
+      "name": "Gadget C",
+      "category": "Gadgets",
+      "price": 15.00,
+      "stock": 200,
+      "sku": "GAD-003-C"
+    },
+    {
+      "id": "PROD-004",
+      "name": "Tool D",
+      "category": "Tools",
+      "price": 75.50,
+      "stock": 25,
+      "sku": "TOOL-004-D"
+    }
+  ]
+}

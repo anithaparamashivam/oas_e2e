@@ -1,0 +1,29 @@
+{
+  "name": "api-client-utils",
+  "version": "1.0.0",
+  "description": "A utility library for making HTTP requests using Axios.",
+  "main": "src/apiClient.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/api-client-utils.git"
+  },
+  "keywords": [
+    "axios",
+    "http",
+    "api",
+    "client",
+    "utils"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
